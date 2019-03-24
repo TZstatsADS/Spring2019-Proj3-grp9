@@ -21,7 +21,7 @@ In this project, we created and improved the regression engines to enhance the r
 	+ Improved: deep learning(CNN)
 	+ Unfinished: SVM
 
-**Model Comparison
+**Model Comparison**:
 
 
 
