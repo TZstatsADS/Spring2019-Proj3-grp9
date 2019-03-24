@@ -13,13 +13,13 @@ Term: Spring 2019
 	+ Yin, Chao (cy2507)
 	+ Zhang, Yun (yz3384)
 
-+Project summary: 
++ Project summary: 
 In this project, we created and improved the regression engines to enhance the resolution of images. The train set includes 1500 images of high resolution and low resolution, respectively. At first, we improved the baseline model (GBM) by cross validation, varying the learning rate from 0.1 to 0.0001 and we determined 0.01 to be the optimal one to use. The training time of baseline model is more than 6 hours. The test time of baseline model is around 53 minutes. Also, we applied CNN algorithm to get higher resolution.
 
-+Models used:
-	+Baseline: GBM
-	+Improved: deep learning(CNN)
-	+Unfinished: SVM
++ Models used:
+	+ Baseline: GBM
+	+ Improved: deep learning(CNN)
+	+ Unfinished: SVM
 
 **Model Comparison
 
