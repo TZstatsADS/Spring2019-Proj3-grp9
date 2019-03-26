@@ -33,9 +33,9 @@ Picture above shows the comparison in running time between the different models 
 
 + Qianqian Wu: Improved the feature extraction algorithm. Converted data of RGB into YCrCB Color type, since transmitting the intensity in high resolution and color in lower resolution is more efficient to save bandwidth. Compared two models, found using YCrCB is a better choice. Created the slides and prepared the presentation. 
 
-+ Xin Xia: Established and optimized the Convolution Neural Network (CNN) using tensorflow in Python. Trained the CNN model and output some high resolution pictures.
++ Xin Xia: Tried baseline feature and label construction. Did cross validation and hyperparameter tuning on GBM. Designed and finished the advanced model using Super Resolution Convolution Neural Network in Python. Set up CUDA for training and testing CNN model.Collected low resolution images for testing the validity of CNN.
 
-+ Chao Yin: Designed and wrote the GBM algorithm coding. Processed cross validation part for GBM, revised and selected best model by comparing 20 groups of parameters. Did the prediction on the test set using GBM model.  
++ Chao Yin: Worked on Feature Extraction and SuperResolution and Completed the baseline model.Parallelized the train function for running on Google Cloud Platform efficiently. Did hyperparameter tuning on 20 groups of parameters and selected the best model for training. Coellected low resolution images for testing the vallidity of GBM. 
 
 + Yun Zhang: Revised the CNN algorithm. Adjusted different number of layers, with the balance of running time and accuracy, choosing the model with two layers is the best. Edited the github page. Did the prediction on the test set using baseline model.
 
