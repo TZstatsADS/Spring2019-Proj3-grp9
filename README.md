@@ -35,7 +35,7 @@ Picture above shows the comparison in running time between the different models 
 
 + Xin Xia: Tried baseline feature and label construction. Did cross validation and hyperparameter tuning on GBM. Designed and finished the advanced model using Super Resolution Convolution Neural Network in Python. Set up CUDA for training and testing CNN model.Collected low resolution images for testing the validity of CNN.
 
-+ Chao Yin: Worked on Feature Extraction and SuperResolution and Completed the baseline model.Parallelized the train function for running on Google Cloud Platform efficiently. Did hyperparameter tuning on 20 groups of parameters and selected the best model for training. Coellected low resolution images for testing the vallidity of GBM. 
++ Chao Yin: Worked on Feature Extraction and SuperResolution and Completed the baseline model.Parallelized the train function for running on Google Cloud Platform efficiently. Did hyperparameter tuning on 20 groups of parameters and selected the best model for training. Collected low resolution images for testing the validity of GBM. 
 
 + Yun Zhang: Revised the CNN algorithm. Adjusted different number of layers, with the balance of running time and accuracy, choosing the model with two layers is the best. Edited the github page. Did the prediction on the test set using baseline model.
 
