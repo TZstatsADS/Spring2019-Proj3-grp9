@@ -1,7 +1,7 @@
 # Project: Can you unscramble a blurry image? 
 
 
-   ![image](doc/page5.png)
+   ![image](doc/page8.png)
 
 Term: Spring 2019
 
@@ -21,15 +21,14 @@ In this project, we created and improved the regression engines to enhance the r
 	+ Improved: deep learning(SRCNN)
 	+ Unfinished: SVM, VDSR
 + GMB model improvement:
-    ![image](doc/page1.png)
-    ![image](doc/page4.png)
+    ![image](doc/page6.png)
     
-+ SRCNN model inprovement:
++ SRCNN model improvement:
     ![image](doc/page2.png)
     ![image](doc/page3.png)
 
 **Model Comparison**:
-
+    ![image](doc/page7.png)
 
 
 Picture above shows the comparison in running time between the different models we utilized.
