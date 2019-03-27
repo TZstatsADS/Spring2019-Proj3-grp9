@@ -31,7 +31,7 @@ In this project, we created and improved the regression engines to enhance the r
     ![image](doc/page7.png)
 
 
-Picture above shows the comparison in running time between the different models we utilized.
+Picture above shows the comparison in running time and accuracy between the different models we utilized.
 
 **Contribution statement**: 
 
