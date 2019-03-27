@@ -1,6 +1,6 @@
 # Project: Can you unscramble a blurry image? 
 
-### [Full Project Description]
+
    ![image](doc/page5.png)
 
 Term: Spring 2019
