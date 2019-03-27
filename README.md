@@ -22,6 +22,7 @@ In this project, we created and improved the regression engines to enhance the r
 	+ Unfinished: SVM, VDSR
 + GMB model improvement:
     ![image](doc/page1.png)
+    ![image](doc/page4.png)
     
 + SRCNN model inprovement:
     ![image](doc/page2.png)
