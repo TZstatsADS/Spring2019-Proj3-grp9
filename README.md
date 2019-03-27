@@ -14,7 +14,7 @@ Term: Spring 2019
 	+ Zhang, Yun (yz3384)
 
 + Project summary: 
-In this project, we created and improved the regression engines to enhance the resolution of images. The train set includes 1500 images of high resolution and low resolution, respectively. At first, we improved the baseline model (GBM) by cross validation, varying the learning rate from 0.1 to 0.0001 and we determined 0.01 to be the optimal one to use. The training time of baseline model is more than 6 hours. The test time of baseline model is around 53 minutes. Also, we applied SRCNN algorithm to get higher resolution. We converted data of RGB into YCrCB Color type and found using YCrCB is a better choice by  Comparing two chanels.
+In this project, we created and improved the regression engines to enhance the resolution of images. The train set includes 1500 images of high resolution and low resolution, respectively. At first, we improved the baseline model (GBM) by cross validation, varying the learning rate from 0.1 to 0.0001 and we determined 0.01 to be the optimal one to use. We also changed depth from 3 to 15 and found 15 to be the best one. The training time of baseline model is more than 6 hours. The test time of baseline model is around 53 minutes. Also, we applied SRCNN algorithm to get higher resolution. We converted data of RGB into YCrCB Color type and found using YCrCB is a better choice by  Comparing two chanels.
 
 + Models used:
 	+ Baseline: GBM
