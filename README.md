@@ -1,7 +1,8 @@
 # Project: Can you unscramble a blurry image? 
 ![image](figs/example.png)
 
-### [Full Project Description](doc/project3_desc.md)
+### [Full Project Description]
+   ![image](doc/page5.png)
 
 Term: Spring 2019
 
